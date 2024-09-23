@@ -9,7 +9,7 @@
     1. Bloc + Bloc BlocListener
 
    </details>
-   1. <details> 
+   2. <details> 
     <summary>Weather App</summary>
 
     1. [Cubit + StreamSubscription](https://github.com/MySelfMukund/flutter_weatherapp_cubit_streamsubscription)  
