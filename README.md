@@ -3,7 +3,7 @@
 1. <details> 
     <summary>Todo App</summary>
 
-    1. Cubit + StreamSubscription  
+    1. [Cubit + StreamSubscription]  
     2. Cubit + Bloc BlocListener  
     3. Bloc + StreamSubscription  
     4. Bloc + Bloc BlocListener
