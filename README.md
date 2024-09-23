@@ -16,8 +16,21 @@
     A. [Cubit + StreamSubscription](https://github.com/MySelfMukund/flutter_weatherapp_cubit_streamsubscription)  
     B. [Cubit + Bloc + BlocListener](https://github.com/MySelfMukund/flutter_weather_app_cubit_bloclistener)  
     C. [Bloc + StreamSubscription](https://github.com/MySelfMukund/flutter_weatherapp_bloc_stream_subscription)  
+    D. [Bloc + Bloc BlocListener (coming soon ...)]()
+
+   </details>
+
+3. <details> 
+    <summary>Firebase Authentication App (Coming soon...)</summary>
+
+    A. [Cubit + StreamSubscription]()  
+    B. [Cubit + Bloc + BlocListener]()  
+    C. [Bloc + StreamSubscription]()  
     D. [Bloc + Bloc BlocListener]()
 
    </details>
+   
+
+   
 
 ## Provider Pattern Examples (coming soon ...)
