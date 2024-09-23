@@ -19,3 +19,5 @@
     D. [Bloc + Bloc BlocListener]()
 
    </details>
+
+   ## Provider Pattern Examples (coming soon ...)
