@@ -1,6 +1,6 @@
 ## Flutter Apps Examples (Source Code)
 1. <details>
-  <summary>Flutte Todo App</summary>
+  <summary>Flutter App Example in Bloc pattern</summary>
   
   ### Content inside the expansion
   - Item 1
