@@ -20,4 +20,4 @@
 
    </details>
 
-   ## Provider Pattern Examples (coming soon ...)
+## Provider Pattern Examples (coming soon ...)
