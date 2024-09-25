@@ -14,7 +14,7 @@
     <summary>Weather App</summary>
 
     A. [Cubit + StreamSubscription](https://github.com/MySelfMukund/flutter_weatherapp_cubit_streamsubscription)  
-    B. [Cubit + Bloc + BlocListener](https://github.com/MySelfMukund/flutter_weather_app_cubit_bloclistener)  
+    B. [Cubit + BlocListener](https://github.com/MySelfMukund/flutter_weather_app_cubit_bloclistener)  
     C. [Bloc + StreamSubscription](https://github.com/MySelfMukund/flutter_weatherapp_bloc_stream_subscription)  
     D. [Bloc + BlocListener (coming soon ...)]()
 
