@@ -31,6 +31,7 @@
    </details>
    
 
+## Bloc Pattern + CleanArchitecture (coming soon ...)
    
 
 ## Provider Pattern Examples (coming soon ...)
