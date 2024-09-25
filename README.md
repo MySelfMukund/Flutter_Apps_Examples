@@ -24,9 +24,9 @@
     <summary>Firebase Authentication App (Coming soon...)</summary>
 
     A. [Cubit + StreamSubscription]()  
-    B. [Cubit + Bloc + BlocListener]()  
+    B. [Cubit + BlocListener]()  
     C. [Bloc + StreamSubscription]()  
-    D. [Bloc + Bloc BlocListener]()
+    D. [Bloc + BlocListener]()
 
    </details>
    
