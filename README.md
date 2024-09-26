@@ -16,7 +16,7 @@
     A. [Cubit + StreamSubscription](https://github.com/MySelfMukund/flutter_weatherapp_cubit_streamsubscription)  
     B. [Cubit + BlocListener](https://github.com/MySelfMukund/flutter_weather_app_cubit_bloclistener)  
     C. [Bloc + StreamSubscription](https://github.com/MySelfMukund/flutter_weatherapp_bloc_stream_subscription)  
-    D. [Bloc + BlocListener](https://github.com/MySelfMukund/flutter_weather_app_bloc_bloclistener)
+    D. [Bloc + BlocListener](https://github.com/MySelfMukund/flutter_weather_app_bloc_bloclistener) ```diff (New added) ```
 
    </details>
 
@@ -26,7 +26,7 @@
     A. [Cubit + StreamSubscription]()  
     B. [Cubit + BlocListener]()  
     C. [Bloc + StreamSubscription]()  
-    D. [Bloc + BlocListener]()
+    D. [Bloc + BlocListener]() 
 
    </details>
    
