@@ -16,11 +16,14 @@
     A. [Cubit + StreamSubscription](https://github.com/MySelfMukund/flutter_weatherapp_cubit_streamsubscription)  
     B. [Cubit + BlocListener](https://github.com/MySelfMukund/flutter_weather_app_cubit_bloclistener)  
     C. [Bloc + StreamSubscription](https://github.com/MySelfMukund/flutter_weatherapp_bloc_stream_subscription)  
-    D. [Bloc + BlocListener](https://github.com/MySelfMukund/flutter_weather_app_bloc_bloclistener) ```diff (New added) ```
+    D. [Bloc + BlocListener](https://github.com/MySelfMukund/flutter_weather_app_bloc_bloclistener) 
+```diff
+ (New added)
+ ```
 
    </details>
 
-3. <details> 
+4. <details> 
     <summary>Firebase Authentication App (Coming soon...)</summary>
 
     A. [Cubit + StreamSubscription]()  
